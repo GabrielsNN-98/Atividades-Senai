@@ -1,0 +1,6 @@
+C:\Users\Fiemg\Documents\Visual Studio 2015\Projects\Gabriel\slaBicho\slaBicho\bin\Debug\slaBicho.exe.config
+C:\Users\Fiemg\Documents\Visual Studio 2015\Projects\Gabriel\slaBicho\slaBicho\bin\Debug\slaBicho.exe
+C:\Users\Fiemg\Documents\Visual Studio 2015\Projects\Gabriel\slaBicho\slaBicho\bin\Debug\slaBicho.pdb
+C:\Users\Fiemg\Documents\Visual Studio 2015\Projects\Gabriel\slaBicho\slaBicho\obj\Debug\slaBicho.csprojResolveAssemblyReference.cache
+C:\Users\Fiemg\Documents\Visual Studio 2015\Projects\Gabriel\slaBicho\slaBicho\obj\Debug\slaBicho.exe
+C:\Users\Fiemg\Documents\Visual Studio 2015\Projects\Gabriel\slaBicho\slaBicho\obj\Debug\slaBicho.pdb

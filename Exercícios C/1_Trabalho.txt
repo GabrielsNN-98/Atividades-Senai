@@ -1,0 +1,74 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include <conio.h>
+
+int i, a, b, c;
+
+typedef char TipoNome[10];
+
+typedef struct{
+	TipoNome *nome;
+}TipoProfessor;
+
+typedef struct{
+	TipoNome *nome;
+}TipoDisciplina;
+
+typedef struct{
+	TipoNome *nome;
+}TipoAluno;
+
+TipoProfessor professor[4];
+TipoAluno aluno[4];
+TipoDisciplina disciplina[4];
+
+void Nome_Professor(){
+	for (i = 1; i < 5; i++)
+	{
+	printf("Informe o nome do professor %i: ",i);
+	scanf ("%s", &professor[i]);
+	system ("cls");
+	}
+}
+
+void Nome_Aluno(){
+
+	for (i = 1; i < 5; i++)
+	{
+	printf("Informe o nome do aluno %i: ",i);
+	scanf ("%s", &aluno[i]);
+	system ("cls");
+	}
+}
+
+void Nome_Disciplina(){
+	for (i = 1; i < 5; i++)
+	{
+	printf("Informe o nome da disciplina %i: ",i);
+	scanf ("%s", &disciplina[i]);
+	system ("cls");
+	}
+}
+
+int main(){
+	
+	Nome_Professor();
+	Nome_Aluno();
+	Nome_Disciplina();
+	
+	for (i = 1; i < 5; i++) 
+	{
+	printf(" \nAluno: %s",&aluno[i]);
+	printf(" Professor: %s",&professor[i]);
+	printf(" Disciplina: %s",&disciplina[i]);
+	}
+
+	getch();
+	
+	printf ("\n\n\n\n\n\n\n\nDigite um numero de 1 a 4 para professor, um para aluno e um para disciplina\n");
+    	scanf ("\n%i\n", &a);
+    	scanf ("%i\n", &b);
+    	scanf ("%i", &c);
+
+	printf ("%s, %s, %s", professor[a].nome, aluno[b].nome, disciplina[c].nome);
+}

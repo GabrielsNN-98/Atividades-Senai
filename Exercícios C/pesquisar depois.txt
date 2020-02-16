@@ -1,0 +1,22 @@
+Itens a pesquisar - C
+
+bibliotecas;
+Variável global;
+variável local;
+métodos;
+case sensitive;
+string;
+declaração do tipo de variável: int, char, etc.;
+getch;
+bool;
+char;tipo de variáveis para números decimais: double e float;
+printf;
+scanf;
+compilação de código;
+%d: inteiro;
+%s: string
+&;
+
+
+
+

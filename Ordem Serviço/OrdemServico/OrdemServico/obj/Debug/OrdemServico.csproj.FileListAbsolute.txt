@@ -1,0 +1,9 @@
+c:\users\aluno\documents\visual studio 2015\Projects\OrdemServico\OrdemServico\bin\Debug\OrdemServico.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\OrdemServico\OrdemServico\bin\Debug\OrdemServico.exe
+c:\users\aluno\documents\visual studio 2015\Projects\OrdemServico\OrdemServico\bin\Debug\OrdemServico.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\OrdemServico\OrdemServico\obj\Debug\OrdemServico.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\OrdemServico\OrdemServico\obj\Debug\OrdemServico.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\OrdemServico\OrdemServico\obj\Debug\OrdemServico.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\OrdemServico\OrdemServico\obj\Debug\OrdemServico.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\OrdemServico\OrdemServico\obj\Debug\OrdemServico.exe
+c:\users\aluno\documents\visual studio 2015\Projects\OrdemServico\OrdemServico\obj\Debug\OrdemServico.pdb

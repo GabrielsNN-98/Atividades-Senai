@@ -1,0 +1,9 @@
+C:\Users\Fiemg\Documents\Visual Studio 2015\Projects\Gabriel\FrmMatricula\FrmMatricula\bin\Debug\FrmMatricula.exe.config
+C:\Users\Fiemg\Documents\Visual Studio 2015\Projects\Gabriel\FrmMatricula\FrmMatricula\bin\Debug\FrmMatricula.exe
+C:\Users\Fiemg\Documents\Visual Studio 2015\Projects\Gabriel\FrmMatricula\FrmMatricula\bin\Debug\FrmMatricula.pdb
+C:\Users\Fiemg\Documents\Visual Studio 2015\Projects\Gabriel\FrmMatricula\FrmMatricula\obj\Debug\Escola.csprojResolveAssemblyReference.cache
+C:\Users\Fiemg\Documents\Visual Studio 2015\Projects\Gabriel\FrmMatricula\FrmMatricula\obj\Debug\FrmMatricula.FrmMatricula.resources
+C:\Users\Fiemg\Documents\Visual Studio 2015\Projects\Gabriel\FrmMatricula\FrmMatricula\obj\Debug\FrmMatricula.Properties.Resources.resources
+C:\Users\Fiemg\Documents\Visual Studio 2015\Projects\Gabriel\FrmMatricula\FrmMatricula\obj\Debug\Escola.csproj.GenerateResource.Cache
+C:\Users\Fiemg\Documents\Visual Studio 2015\Projects\Gabriel\FrmMatricula\FrmMatricula\obj\Debug\FrmMatricula.exe
+C:\Users\Fiemg\Documents\Visual Studio 2015\Projects\Gabriel\FrmMatricula\FrmMatricula\obj\Debug\FrmMatricula.pdb

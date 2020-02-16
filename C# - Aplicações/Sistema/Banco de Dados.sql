@@ -1,0 +1,10 @@
+CREATE DATABASE db_mvc; 
+USE db_mvc;
+
+GO
+
+CREATE TABLE Usuario(
+  id INT NOT NULL PRIMARY KEY IDENTITY(1,1),
+  nome NVARCHAR(60),
+  usuario NVARCHAR(60),
+  senha NVARCHAR(60));
